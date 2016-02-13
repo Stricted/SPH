@@ -1,0 +1,1 @@
+*/1 * * * * /bin/sh /opt/he-ipv6/update_tunnel.sh
